@@ -1,3 +1,3 @@
 # k8s-official-vulns
 
-## k8s 官方漏洞
+K8S 官方漏洞（中英文版）
